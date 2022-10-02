@@ -1,3 +1,5 @@
+![Frame 1Hardhat Readme](https://user-images.githubusercontent.com/89431059/193464765-20d71382-026c-41a0-ae5d-0ade536de48e.png)
+
 # Basic Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
