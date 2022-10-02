@@ -5,13 +5,20 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 Try running some of the following tasks:
 
 ```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
+cd digital-marketplace
 npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
+```
+Open another terminal
+```shell
+cd digital-marketplace
+npx hardhat compile
+npx hardhat run scripts/deploy.js --network localhost
+```
+
+Copy paste the addresses in config.js
+
+```shell
+npm run dev
 ```
 
 # Steps for sending a PR (Important for new contributors **Hacktober**) 
